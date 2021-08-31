@@ -1,0 +1,6 @@
+//This is only for education purpose and you should use it for hacking your classes👩🏻‍🏫👨🏻‍🏫
+// Copy the code given below and fill the path of the particapant you want to remove and paste it in the devloper tools of the meet and click anywhere out and it will show a
+button remove particapant according to the place you have choosen for it and then click on that button the participant will get removed😁😁
+// You can also remove any person either that is the organizer of the meet and even if you are attendee😃😃
+
+<a role="menuitem" tabindex="-1" data-is-focusable="true" class="ui-menu__item bel de ds dd bb bem ben aik beo uu bep" data-cid="roster-remove-participant"><span class="ui-menu__itemicon dp cd dq gl gm bey bez bfa bfb za bt bfc ajs"><span role="img" aria-hidden="true" class="ui-icon gn dsr go"><svg role="presentation" focusable="false" viewBox="2 2 16 16" class="de gl gm gq gr" style="overflow: visible;"><g class="ui-icon__outline de"><path d=""></path><path d=""></path><path d=""></path></g><g class="ui-icon__filled ha"><path d=""></path><path d=""></path><path d=""></path></g></svg></span></span><span dir="auto" class="ui-menu__itemcontent bfd anm bfe bff go bfg bfh bfi qd">Remove from meeting</span></a>
